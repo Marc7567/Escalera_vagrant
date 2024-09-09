@@ -1,0 +1,69 @@
+    1  git clone https://github.com/Marc7567/Escalera_vagrant.git
+    2  ls
+    3  cd Escalera_vagrant/
+    4  ls
+    5  cd ..
+    6  cd Escalera_vagrant/
+    7  history
+    8  history > historial.txt
+    9  ls
+   10  cat historial.txt 
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "mi 1er commit"
+   15  git config --global user.email "marcosescalera1213@gmail.com"
+   16  git config --global user.name "Marc7567"
+   17  git commit -m "mi 1er commit"
+   18  git push
+   19  gitpush
+   20  git push
+   21  exit
+   22  \
+   23  ls
+   24  whoami
+   25  pwd
+   26  man
+   27  man man
+   28  echo "hola"
+   29  echo $HOME
+   30  pwd
+   31  ls
+   32  cd repogit
+   33  ls
+   34  cd..
+   35  cd ..
+   36  ls
+   37  cd repogit/
+   38  ls
+   39  cd ..
+   40  clear
+   41  ls -la
+   42  ls
+   43  cd repogit/
+   44  ls
+   45  ls -la
+   46  cd ..
+   47  cat README 
+   48  clear
+   49  usu
+   50  clear
+   51  ls
+   52  ls -la
+   53  ssh-keygen -t ed25519
+   54  ls -la
+   55  cd .ssh
+   56  ls
+   57  cat id_ed25519.pub
+   58  cd ..
+   59  ls
+   60  cd repogit/
+   61  ls
+   62  clear
+   63  ls
+   64  git clone git@github.com:Marc7567/Escalera_vagrant.git
+   65  ls
+   66  cd Escalera_vagrant/
+   67  ls
+   68  history 
+   69  history > historial.txt
